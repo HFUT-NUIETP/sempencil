@@ -34,7 +34,7 @@ example
 
 ### Results
 
-<video src="readme/MTAP-D-20-03169.mp4" controls="controls" width="800" height="500">您的浏览器不支持播放该视频！</video>
+![](sempencil.gif)
 
 ### Citation
 
