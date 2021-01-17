@@ -1,6 +1,6 @@
 ## SemPencil
 
-Implementation of "**Enhancing Pencil Drawing Patterns via Using Semantic Information**".
+Implementation of "**Enhancing Pencil Drawing Patterns via Using Semantic Information**", more deatils of our paper can be checked on our [page](https://info.terrytengli.com/papers/MTAP-D-20-03169.html).
 
 ### Environment
 
@@ -36,6 +36,12 @@ example
 
 ![](sempencil.gif)
 
-### Citation
+### Reference
 
-On the way…
+The code implementation is based on [pencil](https://github.com/fumin/pencil), thanks for the author's open source spirit.
+
+### Cite us
+
+```
+on the way...
+```
