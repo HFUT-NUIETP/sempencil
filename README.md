@@ -6,7 +6,13 @@ Implementation of "**Enhancing Pencil Drawing Patterns via Using Semantic Inform
 
 ## Usage
 
-Execute ```example.m```.
+- This repo contains too many large files on legacy branchs, please clone the ```master``` branch only for flexible usage.
+
+```
+git clone -b master https://github.com/HFUT-NUIETP/sempencil.git
+```
+
+- Execute ```example.m``` with MATLAB.
 
 ## File structure
 
