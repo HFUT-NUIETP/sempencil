@@ -25,7 +25,7 @@ wget https://github.com/HFUT-NUIETP/sempencil/archive/refs/heads/master.zip
 
 ## Demo
 
-![](https://www.terrytengli.com/src/gifs/2021-12-20_00-45-57_sempencil.gif)
+[rgb-colorp-grayp](https://www.terrytengli.com/src/gifs/2021-12-20_00-45-57_sempencil.gif)
 
 ## Cite Us
 
